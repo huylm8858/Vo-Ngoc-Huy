@@ -1,0 +1,30 @@
+{
+  "LandingPage": {
+    "menu": {
+      "home": "Trang chủ",
+      "about": "Giới thiệu",
+      "courses": "Khóa học",
+      "instructor": "Giảng viên"
+    },
+    "homeBanner": {
+      "title": "Ngọc Huy Chef",
+      "description": "Nấu Ăn Đỉnh Cao, Thực Hiện Giấc Mơ Bếp Núc. Khám Phá Nghệ Thuật Ẩm Thực - Nấu Ăn Cùng Chuyên Gia",
+      "start": "Bắt đầu"
+    },
+    "reviews": "đánh giá",
+    "courseCategory": "Các khóa học đang có",
+    "instructor": "Giảng viên",
+    "footer": {
+      "title": "Từ Bếp Nhà Thành Bếp Chuyên Nghiệp, Bí Quyết Bếp Núc - Trở Thành Đầu Bếp Tài Năng, Thành Công Trong Từng Món Ăn - Học Nấu Cùng Chúng Tôi",
+      "aboutUs": "Về chúng tôi",
+      "contactUs": "Liên hệ",
+      "course": "Khóa học",
+      "aiAppstore": "Ứng dụng AI",
+      "fat1000": "FAT1000",
+      "tests": "Bài kiểm tra",
+      "projectOpening": "Mở dự án",
+      "hiring": "Tuyển dụng",
+      "becomeInstructor": "Trở thành Giảng viên"
+    }
+  }
+}

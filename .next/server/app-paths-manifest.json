@@ -1,0 +1,4 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/[locale]/(landing-page)/page": "app/[locale]/(landing-page)/page.js"
+}
